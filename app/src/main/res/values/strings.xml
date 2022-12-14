@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright &#169; Faizul 2022</string>
+    <string name="about_text">Name: MUHAMMAD FAIZUL FANSURI BIN MANSOR</string>
+    <string name="about_text1">No. Matric: 2020470202</string>
+    <string name="about_text2">Group: RCS2405B</string>
+    <string name="source_link"><a href="https://github.com/muhdfaizul/Assignment-1.git">Source Code Link</a></string>
+</resources>
